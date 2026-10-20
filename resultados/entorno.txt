@@ -1,0 +1,9 @@
+﻿Fecha: 2026-10-19T21:02:50.4349456-05:00
+CPU: 13th Gen Intel(R) Core(TM) i5-13420H
+Núcleos físicos: 8
+Núcleos lógicos: 12
+Memoria RAM: 23.67 GiB
+SO: Microsoft Windows 11 Home Single Language
+Versión del SO: 10.0.26200
+Java: java version "21.0.10"
+Python: Python 3.14.3
